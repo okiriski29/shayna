@@ -49,7 +49,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <div class="copyright-text">Copyright &copy; 2023 All rights reserved | Shayna</div>
+            <div class="copyright-text">Copyright &copy; 2024 All Rights Reserved | Shayna</div>
           </div>
         </div>
       </div>
